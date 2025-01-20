@@ -38,7 +38,7 @@ image_path = "path/to/your/image.jpg"  # Replace with your image path
 Execute the script using Python:
 
 ```bash
-python analyze_blur.py
+python fft_analyze_blur.py
 ```
 
 ### 4. View Results
